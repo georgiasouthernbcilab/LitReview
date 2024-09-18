@@ -4,7 +4,13 @@ Annotated Papers
 - [[DeepVANet - A Deep End-to-EndNetwork for Multi-modal EmotionRecognition]]
 - [[Multimodal Emotion Recognition From EEG Signals and Facial Expressions]]
 
-Miscellaneous 
+Github reading ist :  
+- https://github.com/xueyunlong12589/Papers-on-EEG-Emotion-Recognition/blob/main/paper_list.md
+- https://github.com/kdhht2334/awesome-SOTA-FER?tab=readme-ov-file#multi-modal-eeg-based-emotion-recognition-back-to-top-
+Papers with code :  
+-  https://paperswithcode.com/task/eeg-emotion-recognition/codeless
+- 
+Miscellaneous :   
 - [[Literature_Survey_Obsidian_Table | Structured Tabular format  for Various EEG based  tasks]]
 
 Training Libraries :

@@ -5,7 +5,7 @@ Annotated Papers
 - [[Multimodal Emotion Recognition From EEG Signals and Facial Expressions]]
 
 Miscellaneous 
-- [[Literature_Survey_Obsidian_Table | Structured Tabular format  for]]
+- [[Literature_Survey_Obsidian_Table | Structured Tabular format  for Various EEG based  tasks]]
 
 Training Libraries :
 

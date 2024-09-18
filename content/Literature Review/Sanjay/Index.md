@@ -20,6 +20,7 @@ Data Augmentation :
 - https://github.com/hanzopgp/BrainDataAugmentation
 - https://github.com/braindecode/braindecode/tree/master/braindecode/augmentation Braindecode : https://braindecode.org/stable/api.html#augmentation
 - [Data augmentation for eeg-based emotion recognition with deep convolutional neural networks. In International Conference on Multimedia Modeling (pp. 82-93).](https://link.springer.com/chapter/10.1007/978-3-319-73600-6_8)  Reference  :  https://link.springer.com/chapter/10.1007/978-3-319-73600-6_8
+
 Models : 
 
 - https://braindecode.org/stable/api.html#models

@@ -37,3 +37,10 @@ Extensive dataset partitioning methods for users to experiment with different se
 
 Custom Dataset  loader 
 - Torcheeg https://torcheeg.readthedocs.io/en/latest/generated/torcheeg.datasets.FolderDataset.html#torcheeg.datasets.FolderDataset
+
+---
+Oct 12 
+
+
+- various  papers https://www.nitrc.org/projects/eeg_dl_library
+- 

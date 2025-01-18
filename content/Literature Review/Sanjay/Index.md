@@ -1,4 +1,6 @@
-##### Core Repository for Model Training : https://github.com/georgiasouthernbcilab/gsbci-train
+##### Core Repository for Model Training : https://github.com/georgiasouthernbcilab/gsbci-train/tree/torcheeg
+
+###### Look for ==torcheeg== branch for current development code 
 
 
 ---

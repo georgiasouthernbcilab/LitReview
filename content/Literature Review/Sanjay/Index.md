@@ -2,6 +2,8 @@
 
 ###### Look for ==torcheeg== branch for current development code 
 
+##### For ML model backbone various library codes : https://github.com/georgiasouthernbcilab/gsbci-train/tree/torcheeg/models 
+
 
 ---
 Oct 12 2024 

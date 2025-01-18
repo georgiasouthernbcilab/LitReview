@@ -1,3 +1,40 @@
+##### Core Repository for Model Training : https://github.com/georgiasouthernbcilab/gsbci-train
+
+
+---
+Oct 12 2024 
+
+- various  papers https://www.nitrc.org/projects/eeg_dl_library
+
+---
+End Oct 2024
+
+Explainable AI for EEG Model training with videos for Emotion Recognition 
+
+Reference - [[XAI]]
+
+---
+Mid Dec 2024
+- Report 1 - [[Report 1]]
+- Report 2 - [[Report 2]]
+---
+Jan 17 2025 
+Graph Neural Network Based Papers 
+
+- [[HetEmotionNet.pdf]]
+- [[GNN4EEG-Benchmark.pdf]]
+
+---
+Jan 18 2025
+
+EEG pre processing / Feature extraction techniques through data convergence for training 
+
+-  [[Cross subject EEG emotion recognition through NN.pdf]]
+
+
+
+----
+
 Annotated Papers 
 - [[A Transformer-Based Approach CombiningDeep Learning Network and Spatial-TemporalInformation for Raw EEG Classification]]
 - [[An Efficient LSTM Network for Emotion Recognition From Multichannel EEG Signals]]
@@ -37,10 +74,3 @@ Extensive dataset partitioning methods for users to experiment with different se
 
 Custom Dataset  loader 
 - Torcheeg https://torcheeg.readthedocs.io/en/latest/generated/torcheeg.datasets.FolderDataset.html#torcheeg.datasets.FolderDataset
-
----
-Oct 12 
-
-
-- various  papers https://www.nitrc.org/projects/eeg_dl_library
-- 

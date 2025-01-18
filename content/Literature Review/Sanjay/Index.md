@@ -33,6 +33,10 @@ EEG pre processing / Feature extraction techniques through data convergence for 
 
 -  [[Cross subject EEG emotion recognition through NN.pdf]]
 
+---
+Present 
+
+Current bench marking dataset on valence and arousal (==binary==) and will start training 4 categories of emotion 
 
 
 ----

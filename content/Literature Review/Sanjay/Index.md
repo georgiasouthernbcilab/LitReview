@@ -36,12 +36,45 @@ EEG pre processing / Feature extraction techniques through data convergence for 
 -  [[Cross subject EEG emotion recognition through NN.pdf]]
 
 ---
-Present 
+Jan 19 2025 - Jan 22 2025
 
 Current bench marking dataset on valence and arousal (==binary==) and will start training 4 categories of emotion 
 
 
 ----
+Jan 23 2025 
+
+Reference for paper writing : https://docs.google.com/document/d/1Y8_PKrU5BR0xmOJEGP_zMxwuKRBaVnGetLpVkdICz5M/edit?usp=sharing
+
+
+
+---
+
+|             | Model Name       | Wandb report |
+| ----------- | ---------------- | ------------ |
+|             | fbcnn            |              |
+|             | mtcnn            |              |
+|             | sst-emtotion net |              |
+| CNN         | eegnet           |              |
+|             | stnet            |              |
+|             | tsception        |              |
+|             |                  |              |
+| RNN         | gru              |              |
+|             | lstm             |              |
+|             |                  |              |
+|             | conformer        |              |
+| Transformer | vit              |              |
+|             | arjun vit        |              |
+|             |                  |              |
+|             | dgcnn            |              |
+| GNN         | lggnet           |              |
+|             | het emotion net  |              |
+|             |                  |              |
+| GAN         | eegfusenet       |              |
+|             |                  |              |
+| Mamba       | ~                |              |
+
+---
 
 Annotated Papers 
 - [[A Transformer-Based Approach CombiningDeep Learning Network and Spatial-TemporalInformation for Raw EEG Classification]]
